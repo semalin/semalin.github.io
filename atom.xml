@@ -6,7 +6,7 @@
   <link href="https://semalin.github.io/atom.xml" rel="self"/>
   
   <link href="https://semalin.github.io/"/>
-  <updated>2023-02-20T09:20:22.856Z</updated>
+  <updated>2023-02-20T14:27:45.197Z</updated>
   <id>https://semalin.github.io/</id>
   
   <author>
@@ -21,16 +21,12 @@
     <link href="https://semalin.github.io/2023/02/20/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%87%E7%AB%A0/"/>
     <id>https://semalin.github.io/2023/02/20/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%83%A8%E8%90%BD%E6%A0%BC%E6%96%87%E7%AB%A0/</id>
     <published>2023-02-20T02:57:14.000Z</published>
-    <updated>2023-02-20T09:20:22.856Z</updated>
+    <updated>2023-02-20T14:27:45.197Z</updated>
     
-    <content type="html"><![CDATA[<p>如果想要顯示每一篇文章的總字數和估計的閱讀時間，就需要安裝</p>]]></content>
+    <content type="html"><![CDATA[<p>如果想要顯示每一篇文章的總字數和估計的閱讀時間，就需要安裝</p><span id="more"></span>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;如果想要顯示每一篇文章的總字數和估計的閱讀時間，就需要安裝&lt;/p&gt;
-</summary>
-      
+    <summary type="html">&lt;p&gt;如果想要顯示每一篇文章的總字數和估計的閱讀時間，就需要安裝&lt;/p&gt;</summary>
     
     
     
